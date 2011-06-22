@@ -1,0 +1,12 @@
+A tron-like game would be great for the N9.  I plan on:
+
+1) getting armagetron or glTron running on the N9 (preference for armagetron[1])
+2) release (early, often)
+3) as many N9-specific patches as practical: 
+   3a) integration with N9 accelerometer
+   3b) simple integration with N9 touch screen
+   3c) camera snapshots for personalisation
+4) any other patches as suggested by community
+
+Footnotes:
+1. Previously glTron has been packaged for the n900 but armagetron would offer more benefits (e.g., multiplayer), though the OpenGL library might be a problem.
